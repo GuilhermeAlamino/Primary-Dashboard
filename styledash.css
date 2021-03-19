@@ -1,0 +1,57 @@
+
+body{
+    overflow:hidden;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:300;
+}
+
+
+#sidebar-container{
+    min-height:100vh;
+    background-color:#666;
+    
+}
+#sidebar-container .logo{
+    padding:.875rem 1.50rem; 
+}
+
+#sidebar-container .menu {
+    width:15rem;
+}
+
+.btn-search{
+    right:5px;
+}
+
+span{
+    color:#ffc900;
+}
+
+.font-weight-bold{
+    overflow:hidden;
+    font-weight:300;
+    font-size:22px;
+    display:inline-block;
+}
+
+#content{
+    overflow-y:auto;
+    height:100vh;
+    padding-bottom:5rem;
+}
+
+.btn{
+    border:0;
+}
+
+.btn-primary{
+    background-color:#ffc900;
+}
+
+.btn-primary:hover{
+    background-color:#ffc900;
+}
+
+.stat{
+    border-right:1px solid#ccc;
+}
