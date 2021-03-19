@@ -16,7 +16,7 @@
                 <input type="email" name="email" id="email" placeholder="email@email.com">
                 <input type="submit" id="botao" class="btn btn-warning" value="Login" name="botao">
             <a class="alert alert-secondary" id="ativar" href="ativa.php">Ativação de Usúario</a>
-            <p id="msg" class="alert alert-danger" role="alert"><p>
+            <div><p id="msg" class="alert alert-danger" role="alert"><p></div>
         </div>
     </div>
 </form>
