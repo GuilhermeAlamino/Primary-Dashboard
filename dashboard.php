@@ -41,7 +41,7 @@
         <h4 class="text-light font-weight-bold" style="font-family: 'Ranchers', cursivo;">Grow Up <span>Gold</span></h4>
   </div>
     <div class="menu">
-            <a href="#home" style="text-decoration:none;" class="d-block text-light p-3"><i class="icon ion-md-apps mr-2 lead"></i>Inicio</a>
+            <a href="#" style="text-decoration:none;" class="d-block text-light p-3"><i class="icon ion-md-apps mr-2 lead"></i>Inicio</a>
             <a href="#" style="text-decoration:none;" class="d-block text-light p-3"><i class="icon ion-md-person mr-2 lead"></i>Perfil</a>
             <a href="#" style="text-decoration:none;" class="d-block text-light p-3"><i class="icon ion-md-stats mr-2 lead"></i>Investimento</a>  
             <a href="#" style="text-decoration:none;" class="d-block text-light p-3"><i class="icon ion-md-settings mr-2 lead"></i>Configuração</a>
